@@ -37,9 +37,9 @@ Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_posi
 @snap[north span-100]
 ## Capstone Project
 @snapend
-### Technical Stack
+### Technical Stack  
   
-
+  
 - Django
 - Android + Java
 - Python numpy and filterpy
@@ -68,7 +68,8 @@ Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_posi
 ## Yoursbot
 @snapend
 
-### Technical Stack
+### Technical Stack  
+  
 
 - Running Bots with RabbitMQ and Celery
 - Web server with Node.js
