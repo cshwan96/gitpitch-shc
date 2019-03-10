@@ -8,10 +8,12 @@
 - Best of the Best 4th
 
 ---
+@snap[north]
 ## Capstone Project
+@snapend
 
 @snap[east span-50]
-![](assets/img/presentation.png)
+![](assets/img/beacon.png)
 @snapend
 
 @snap[west span-50]
@@ -34,7 +36,9 @@ Indoor Positioning Image from [SPREO](https://spreo.co/indoor_positioning_ips/)
 - Algorithm with Python using numpy and filterpy.
 
 ---
+@snap[north]
 ## CryptoCurrency Bot Trading System
+@snapend
 
 @snap[west span-50]
 #### Main Idea
@@ -47,7 +51,9 @@ Indoor Positioning Image from [SPREO](https://spreo.co/indoor_positioning_ips/)
 @snapend
 
 ---
+@snap[north]
 ## CryptoCurrency Bot Trading System
+@snapend
 
 #### Technical Stack
 
