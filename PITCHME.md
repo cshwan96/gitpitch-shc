@@ -6,9 +6,10 @@
 - Korea Digital Media Highschool
 - Majored Computer Engineering
 - Best of the Best 4th
+- Worked for Stealien
 
 ---
-@snap[north]
+@snap[north span-100]
 ## Capstone Project
 @snapend
 
@@ -22,14 +23,16 @@
 
 
 @snap[south-west text-03]
-Beacon Image from [RECO](http://www.enewstoday.co.kr/news/articleView.html?idxno=493825)
-Indoor Positioning Image from [SPREO](https://spreo.co/indoor_positioning_ips/)
+Beacon Image from [@color[blue](RECO)](http://www.enewstoday.co.kr/news/articleView.html?idxno=493825)
+Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_positioning_ips/)
 @snapend
 
 ---
+@snap[north span-100]
 ## Capstone Project
+@snapend
 
-#### Technical Stack
+### Technical Stack
 
 - Web server with Django.
 - Android Application with Java.
@@ -37,12 +40,13 @@ Indoor Positioning Image from [SPREO](https://spreo.co/indoor_positioning_ips/)
 
 ---
 @snap[north]
-## CryptoCurrency Bot Trading System
+## Yoursbot
 @snapend
 
-@snap[west span-50]
+@snap[east span-50]
 #### Main Idea
-- Let User define the Algorithm.
+- CryptoCurrency Trading Bot
+- Let user define the Algorithm
 - Especially in "KOREAN"
 @snapend
 
@@ -52,32 +56,31 @@ Indoor Positioning Image from [SPREO](https://spreo.co/indoor_positioning_ips/)
 
 ---
 @snap[north]
-## CryptoCurrency Bot Trading System
+## Yoursbot
 @snapend
 
-#### Technical Stack
+### Technical Stack
 
 - Running Bots with RabbitMQ and Celery
-- Web server with node.js
-- Algorithm with Python
+- Web server with Node.js
+- Algorithm with Python 3
 
 ---
 ## Other Things I've Experienced
 
 - Spring Framework
+- Classic LAMP
 - Android Application Source Code
-- Linux Kernel Source Code
-- Assembly
 - And a lot of debugging!
 
 ---
 
 ## Overall
 
-- Fast Learner
+- **Fast Learner**
 - Trouble Shooter
-- Familiar with Python
-- But, language/platform doesn't matter
+- Familiar with **Python**
+
 ---
 
 ## Qna
