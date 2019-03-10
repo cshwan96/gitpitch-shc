@@ -1,48 +1,81 @@
-# Let's Get Started
+# Introduce Myself
+## Seonghwan Cho
 
 ---
-
-## Add Some Slide Candy
-
-![](assets/img/presentation.png)
+## Short Biography
+- Korea Digital Media Highschool
+- Majored Computer Engineering
+- Best of the Best 4th
 
 ---
-@title[Customize Slide Layout]
-
-@snap[west span-50]
-## Customize Slide Content Layout
-@snapend
+## Capstone Project
 
 @snap[east span-50]
 ![](assets/img/presentation.png)
 @snapend
 
----?color=#E58537
-@title[Add A Little Imagination]
-
-@snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
+@snap[west span-50]
+![](assets/img/indoor_positioning.png)
 @snapend
 
-@snap[west span-55]
-@ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
-@ulend
+
+@snap[south-west text-03]
+Beacon Image from [RECO](http://www.enewstoday.co.kr/news/articleView.html?idxno=493825)
+Indoor Positioning Image from [SPREO](https://spreo.co/indoor_positioning_ips/)
 @snapend
 
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
+---
+## Capstone Project
+
+#### Technical Stack
+
+- Web server with Django.
+- Android Application with Java.
+- Algorithm with Python using numpy and filterpy.
+
+---
+## CryptoCurrency Bot Trading System
+
+@snap[west span-50]
+#### Main Idea
+- Let User define the Algorithm.
+- Especially in "KOREAN"
 @snapend
 
----?image=assets/img/presenter.jpg
-
-@snap[north span-100 headline]
-## Now It's Your Turn
+@snap[west span-50]
+![](assets/img/yours_chart.png)
 @snapend
 
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
+---
+## CryptoCurrency Bot Trading System
+
+#### Technical Stack
+
+- Running Bots with RabbitMQ and Celery
+- Web server with node.js
+- Algorithm with Python
+
+---
+## Other Things I've Experienced
+
+- Spring Framework
+- Android Application Source Code
+- Linux Kernel Source Code
+- Assembly
+- And a lot of debugging!
+
+---
+
+## Overall
+
+- Fast Learner
+- Trouble Shooter
+- Familiar with Python
+- But, language/platform doesn't matter
+---
+
+## Qna
+
+#### Any Question?
+
+---
