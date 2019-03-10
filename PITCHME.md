@@ -3,7 +3,10 @@
 ## Seonghwan Cho
 
 ---
+@snap[north span-100]
 ## Short Biography
+@snapend
+
 - Korea Digital Media Highschool
 - Majored Computer Engineering
 - Best of the Best 4th
@@ -26,7 +29,7 @@
 @snap[south-west text-03]
 Beacon Image from [@color[blue](RECO)](http://www.enewstoday.co.kr/news/articleView.html?idxno=493825)
   
-  
+
 Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_positioning_ips/)
 @snapend
 
@@ -34,12 +37,12 @@ Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_posi
 @snap[north span-100]
 ## Capstone Project
 @snapend
-
 ### Technical Stack
+  
 
-- Web server with Django.
-- Android application with Java.
-- Algorithm with Python using numpy and filterpy.
+- Django
+- Android + Java
+- Python numpy and filterpy
 
 ---
 @snap[north span-100]
@@ -50,7 +53,7 @@ Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_posi
 
 ### Main Idea
 
-@ul
+@ul[]
 - CryptoCurrency Trading Bot
 - Let user define the Algorithm
 - Especially in "KOREAN"
