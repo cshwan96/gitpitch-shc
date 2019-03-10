@@ -53,7 +53,7 @@ Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_posi
 
 ### Main Idea
 
-@ul[]
+@ul[](false)
 - CryptoCurrency Trading Bot
 - Let user define the Algorithm
 - Especially in "KOREAN"
