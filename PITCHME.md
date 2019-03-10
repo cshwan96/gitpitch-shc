@@ -25,7 +25,8 @@
 
 @snap[south-west text-03]
 Beacon Image from [@color[blue](RECO)](http://www.enewstoday.co.kr/news/articleView.html?idxno=493825)
-
+  
+  
 Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_positioning_ips/)
 @snapend
 
@@ -49,9 +50,11 @@ Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_posi
 
 ### Main Idea
 
+@ul
 - CryptoCurrency Trading Bot
 - Let user define the Algorithm
 - Especially in "KOREAN"
+@ulend
 
 @snapend
 
