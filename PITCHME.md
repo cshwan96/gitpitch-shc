@@ -1,4 +1,5 @@
 # Introduce Myself
+
 ## Seonghwan Cho
 
 ---
@@ -40,7 +41,7 @@ Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_posi
 - Algorithm with Python using numpy and filterpy.
 
 ---
-@snap[north]
+@snap[north span-100]
 ## Yoursbot
 @snapend
 
@@ -51,6 +52,7 @@ Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_posi
 - CryptoCurrency Trading Bot
 - Let user define the Algorithm
 - Especially in "KOREAN"
+
 @snapend
 
 @snap[west span-50]
@@ -58,7 +60,7 @@ Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_posi
 @snapend
 
 ---
-@snap[north]
+@snap[north span-100]
 ## Yoursbot
 @snapend
 
@@ -69,7 +71,9 @@ Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_posi
 - Algorithm with Python 3
 
 ---
+@snap[north span-100]
 ## Other Things I've Experienced
+@snapend
 
 - Spring Framework
 - Classic LAMP
@@ -77,8 +81,9 @@ Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_posi
 - And a lot of debugging!
 
 ---
-
+@snap[north span-100]
 ## Overall
+@snapend
 
 - **Fast Learner**
 - Trouble Shooter
