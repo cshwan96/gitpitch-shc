@@ -13,17 +13,18 @@
 ## Capstone Project
 @snapend
 
-@snap[east span-50]
+@snap[west span-50]
 ![](assets/img/beacon.png)
 @snapend
 
-@snap[west span-50]
+@snap[east span-50]
 ![](assets/img/indoor_positioning.png)
 @snapend
 
 
 @snap[south-west text-03]
 Beacon Image from [@color[blue](RECO)](http://www.enewstoday.co.kr/news/articleView.html?idxno=493825)
+
 Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_positioning_ips/)
 @snapend
 
@@ -35,7 +36,7 @@ Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_posi
 ### Technical Stack
 
 - Web server with Django.
-- Android Application with Java.
+- Android application with Java.
 - Algorithm with Python using numpy and filterpy.
 
 ---
@@ -44,7 +45,9 @@ Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_posi
 @snapend
 
 @snap[east span-50]
-#### Main Idea
+
+### Main Idea
+
 - CryptoCurrency Trading Bot
 - Let user define the Algorithm
 - Especially in "KOREAN"
@@ -83,8 +86,8 @@ Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_posi
 
 ---
 
-## Qna
+## QnA
 
-#### Any Question?
+### Any Question?
 
 ---
