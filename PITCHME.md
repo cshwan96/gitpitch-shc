@@ -51,8 +51,6 @@ Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_posi
 
 @snap[east span-50]
 
-### Main Idea
-
 @ul[black](false)
 - CryptoCurrency Trading Bot
 - Let user define the Algorithm
