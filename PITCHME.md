@@ -1,6 +1,6 @@
 ## Seonghwan Cho
 
-GSIS M.S. Student
+GSIS M.S. Student  
 Network and System Security Lab
 
 ---
