@@ -1,16 +1,21 @@
-# Introduce Myself
-
 ## Seonghwan Cho
+
+GSIS M.S. Student
+Network and System Security Lab
 
 ---
 @snap[north span-100]
-## Short Biography
+## Profile
 @snapend
 
 - Korea Digital Media Highschool
 - Majored Computer Engineering
 - Best of the Best 4th
 - Worked for Stealien
+
+---
+
+# Past Projects
 
 ---
 @snap[north span-100]
@@ -49,18 +54,16 @@ Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_posi
 ## Yoursbot
 @snapend
 
-@snap[east span-50]
+@snap[west span-60]
+![](assets/img/yours_chart.png)
+@snapend
 
+@snap[east span-60]
 @ul[black](false)
 - CryptoCurrency Trading Bot
 - Let user define the Algorithm
 - Especially in "KOREAN"
 @ulend
-
-@snapend
-
-@snap[west span-50]
-![](assets/img/yours_chart.png)
 @snapend
 
 ---
@@ -69,11 +72,10 @@ Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_posi
 @snapend
 
 ### Technical Stack  
-  
 
-- Running Bots with RabbitMQ and Celery
-- Web server with Node.js
-- Algorithm with Python 3
+- RabbitMQ and Celery
+- Node.js
+- Python 3
 
 ---
 @snap[north span-100]
@@ -82,7 +84,6 @@ Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_posi
 
 - Spring Framework
 - Classic LAMP
-- Android Application Source Code
 - And a lot of debugging!
 
 ---
@@ -90,9 +91,9 @@ Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_posi
 ## Overall
 @snapend
 
-- **Fast Learner**
-- Trouble Shooter
 - Familiar with **Python**
+- Trouble Shooter
+- **Fast Learner**
 
 ---
 
