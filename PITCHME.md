@@ -10,16 +10,14 @@ Network and System Security Lab
 
 - Korea Digital Media Highschool
 - Majored Computer Engineering
-- Best of the Best 4th
+- Best of the Best
 - Worked for Stealien
-
 ---
-
 ## Past Projects
 
 ---
 @snap[north span-100]
-## Capstone Project
+## Indoor Positioning
 @snapend
 
 @snap[west span-50]
@@ -38,11 +36,9 @@ Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_posi
 
 ---
 @snap[north span-100]
-## Capstone Project
+## Indoor Positioning
 @snapend
 ### Technical Stack  
-  
-  
 - Django
 - Android + Java
 - Python numpy and filterpy
@@ -81,7 +77,7 @@ Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_posi
 @snapend
 
 - Spring Framework
-- Classic LAMP
+- Linux Apache Mysql Php
 - And a lot of debugging!
 
 ---
