@@ -15,7 +15,7 @@ Network and System Security Lab
 
 ---
 
-# Past Projects
+## Past Projects
 
 ---
 @snap[north span-100]
@@ -54,15 +54,15 @@ Indoor Positioning Image from [@color[blue](SPREO)](https://spreo.co/indoor_posi
 ## Yoursbot
 @snapend
 
-@snap[west span-60]
+@snap[west span-50]
 ![](assets/img/yours_chart.png)
 @snapend
 
-@snap[east span-60]
+@snap[east span-50]
 @ul[black](false)
 - CryptoCurrency Trading Bot
 - Let user define the Algorithm
-- Especially in "KOREAN"
+- Especially in **"KOREAN"**
 @ulend
 @snapend
 
